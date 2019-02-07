@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bending Gras", "Bending Gras.csproj", "{B5EBDA8B-5D4E-E172-2068-B4E52240E38A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bending Gras.Editor", "Bending Gras.Editor.csproj", "{879A19B3-1FBC-63F7-114E-912FFB792A58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5EBDA8B-5D4E-E172-2068-B4E52240E38A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EBDA8B-5D4E-E172-2068-B4E52240E38A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EBDA8B-5D4E-E172-2068-B4E52240E38A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EBDA8B-5D4E-E172-2068-B4E52240E38A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{879A19B3-1FBC-63F7-114E-912FFB792A58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879A19B3-1FBC-63F7-114E-912FFB792A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879A19B3-1FBC-63F7-114E-912FFB792A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879A19B3-1FBC-63F7-114E-912FFB792A58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
